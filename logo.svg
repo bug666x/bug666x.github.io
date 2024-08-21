@@ -1,11 +1,11 @@
 <svg version="1.1"
   baseProfile="full"
-  width="450" height="300"
+  width="300" height="200"
   xmlns="http://www.w3.org/2000/svg">
 
   <rect width="100%" height="100%" fill="#00008b" />
 
-  <circle cx="150" cy="100" r="50" fill="white" stroke="white" stroke-width="4" fill-opacity="0" />
+  <circle cx="150" cy="140" r="40" fill="white" stroke="white" stroke-width="4" fill-opacity="0" />
 
 
 </svg>
