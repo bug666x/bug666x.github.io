@@ -9,5 +9,7 @@
 
   <line x1="225" y1="150" x2="325" y2="150" stroke="white" stroke-width="4" />
 
+  <path d="M 325 150 A 100 100, 0, 0, 1, 125 150" stroke="white" stroke-width="4" />
+
 
 </svg>
